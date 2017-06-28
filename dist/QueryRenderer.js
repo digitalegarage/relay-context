@@ -69,6 +69,7 @@ var QueryRenderer = function (_Component) {
 
 QueryRenderer.contextTypes = {
   defaultEnvironment: _propTypes2.default.string,
-  environmentRegistry: _propTypes2.default.object
+  environmentRegistry: _propTypes2.default.object,
+  lookupByDefault: _propTypes2.default.bool
 };
 exports.default = QueryRenderer;

@@ -14,6 +14,7 @@ export default class QueryRenderer extends Component<*, QueryRendererProps, *> {
   static contextTypes = {
     defaultEnvironment: PropTypes.string,
     environmentRegistry: PropTypes.object,
+    lookupByDefault: PropTypes.bool,
   };
 
   render() {
