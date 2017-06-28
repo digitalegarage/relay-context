@@ -1,5 +1,5 @@
 {
-  "name": "relay-context",
+  "name": "@sep/relay-context",
   "version": "2.0.0",
   "main": "dist/",
   "repository": "git@github.com:MrBoolean/relay-context.git",
@@ -64,5 +64,8 @@
       "[/\\\\]node_modules[/\\\\].+\\.(js|jsx)$"
     ],
     "coverageDirectory": "<rootDir>/coverage"
+  },
+  "dependencies": {
+    "relay-query-lookup-renderer": "^1.0.1"
   }
 }
