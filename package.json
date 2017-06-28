@@ -1,6 +1,7 @@
 {
   "name": "@sep/relay-context",
   "version": "1.0.0",
+  "private": true,
   "main": "dist/",
   "repository": "git@github.com:MrBoolean/relay-context.git",
   "author": "MrBoolean <marcandrebinder@gmail.com>",
