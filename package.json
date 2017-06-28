@@ -1,5 +1,5 @@
 {
-  "name": "digitalegarage/relay-context",
+  "name": "relay-context",
   "version": "1.0.0",
   "private": true,
   "main": "dist/",
